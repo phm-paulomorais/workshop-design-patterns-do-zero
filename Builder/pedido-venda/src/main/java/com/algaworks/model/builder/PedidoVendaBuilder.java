@@ -28,7 +28,7 @@ public class PedidoVendaBuilder {
 	private void definirCliente(String nome, boolean vip) {
 		Cliente cliente = new Cliente();
 		cliente.setNome(nome);
-		cliente.setVip(true);
+		cliente.setVip(vip);
 		this.instancia.setCliente(cliente);
     }
 	
