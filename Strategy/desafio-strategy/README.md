@@ -6,7 +6,7 @@ Você irá criar um sistema iterativo, usando a classe Scanner para receber os dad
 
 Veja o diagrama abaixo como devem ser as classes desse sistema:
 
-<img alt="Diagrama de classes" title="Diagrama de classes" src="imagem/desafio-strategy-v2.png" width="600px" />
+<img alt="Diagrama de classes" title="Diagrama de classes" src="imagem/desafio-strategy-v2.png" width="800px" />
 
 A sequência deve ser assim:
 
