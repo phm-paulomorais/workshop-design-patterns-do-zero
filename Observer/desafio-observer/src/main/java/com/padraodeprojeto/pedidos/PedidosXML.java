@@ -1,8 +1,8 @@
-package com.padraoesdeprojeto.pedidos;
+package com.padraodeprojeto.pedidos;
 
 import java.util.List;
 
-import com.padraoesdeprojeto.model.Pedido;
+import com.padraodeprojeto.model.Pedido;
 import com.thoughtworks.xstream.XStream;
 
 public class PedidosXML {

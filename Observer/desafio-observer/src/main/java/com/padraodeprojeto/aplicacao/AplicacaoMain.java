@@ -1,11 +1,11 @@
-package com.padraoesdeprojeto.aplicacao;
+package com.padraodeprojeto.aplicacao;
 
-import com.padraoesdeprojeto.listener.EntregaListener;
-import com.padraoesdeprojeto.listener.FaturamentoListener;
-import com.padraoesdeprojeto.listener.Listener;
-import com.padraoesdeprojeto.notifier.Notificador;
-import com.padraoesdeprojeto.notifier.NotificadorPedidos;
-import com.padraoesdeprojeto.pedidos.PedidosXML;
+import com.padraodeprojeto.listener.EntregaListener;
+import com.padraodeprojeto.listener.FaturamentoListener;
+import com.padraodeprojeto.listener.Listener;
+import com.padraodeprojeto.notifier.Notificador;
+import com.padraodeprojeto.notifier.NotificadorPedidos;
+import com.padraodeprojeto.pedidos.PedidosXML;
 
 public class AplicacaoMain {
 

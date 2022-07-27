@@ -1,4 +1,4 @@
-package com.padraoesdeprojeto.listener;
+package com.padraodeprojeto.listener;
 
 public interface Listener {
 

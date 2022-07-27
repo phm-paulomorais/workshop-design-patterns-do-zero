@@ -1,4 +1,4 @@
-package com.padraoesdeprojeto.model;
+package com.padraodeprojeto.model;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

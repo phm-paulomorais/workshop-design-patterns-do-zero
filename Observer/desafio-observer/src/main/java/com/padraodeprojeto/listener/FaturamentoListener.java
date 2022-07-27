@@ -1,11 +1,11 @@
-package com.padraoesdeprojeto.listener;
+package com.padraodeprojeto.listener;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.util.List;
 
-import com.padraoesdeprojeto.model.Pedido;
-import com.padraoesdeprojeto.notifier.Notificador;
+import com.padraodeprojeto.model.Pedido;
+import com.padraodeprojeto.notifier.Notificador;
 
 public class FaturamentoListener implements Listener {
 

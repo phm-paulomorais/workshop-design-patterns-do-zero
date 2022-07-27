@@ -1,11 +1,11 @@
-package com.padraoesdeprojeto.notifier;
+package com.padraodeprojeto.notifier;
 
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import com.padraoesdeprojeto.listener.Listener;
-import com.padraoesdeprojeto.model.Pedido;
+import com.padraodeprojeto.listener.Listener;
+import com.padraodeprojeto.model.Pedido;
 
 public class NotificadorPedidos implements Notificador {
 	

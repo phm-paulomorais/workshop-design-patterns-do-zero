@@ -1,9 +1,9 @@
-package com.padraoesdeprojeto.notifier;
+package com.padraodeprojeto.notifier;
 
 import java.util.List;
 
-import com.padraoesdeprojeto.listener.Listener;
-import com.padraoesdeprojeto.model.Pedido;
+import com.padraodeprojeto.listener.Listener;
+import com.padraodeprojeto.model.Pedido;
 
 
 public interface Notificador {

@@ -4,20 +4,20 @@ Sua tarefa é criar um sistema que irá ler esse arquivo e notificar o sistema de 
 
 O arquivo com os produtos vendidos é parecida com a lista abaixo:
 
-<pedidos>
-  <pedido>
-    <descricao>Sabonete Líquido</descricao>
-    <valor>5.39</valor>
-  </pedido>
-  <pedido>
-    <descricao>Shampoo Anti-caspa</descricao>
-    <valor>12.22</valor>
-  </pedido>
-  <pedido>
-    <descricao>Pasta de Dente</descricao>
-    <valor>9.66</valor>
-  </pedido>
-</pedidos>
+	<pedidos>
+	  <pedido>
+	    <descricao>Sabonete Líquido</descricao>
+	    <valor>5.39</valor>
+	  </pedido>
+	  <pedido>
+	    <descricao>Shampoo Anti-caspa</descricao>
+	    <valor>12.22</valor>
+	  </pedido>
+	  <pedido>
+	    <descricao>Pasta de Dente</descricao>
+	    <valor>9.66</valor>
+	  </pedido>
+	</pedidos>
 
 Não preciso nem te falar que esse sistema precisa ser flexível o suficiente para ser fácil adicionar e remover recebedores sobre as novas vendas.
 
