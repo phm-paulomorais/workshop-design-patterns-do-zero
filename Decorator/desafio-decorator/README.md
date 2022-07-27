@@ -4,11 +4,11 @@ Você vai usar o padrão Decorator para essa tarefa, ou seja, não irá alterar a cl
 
 O sistema possui uma classe AgendaDAO que insere e busca os dados do arquivo. Veja abaixo como deve ser essa classe:
 
-<img alt="AgendaDAO" title="Classe AgendaDAO" src="imagem/desafio-decorator-agendadao.png" width="400px" />
+<img alt="AgendaDAO" title="Classe AgendaDAO" src="imagem/desafio-decorator-agendadao.png" width="200px" />
 
 E a classe Contato:
 
-<img alt="Contato" title="Classe Contato" src="imagem/desafio-decorator-contato.png" width="400px" />
+<img alt="Contato" title="Classe Contato" src="imagem/desafio-decorator-contato.png" width="200px" />
 
 O funcionamento é bem simples, para salvar um novo Contato você irá passá-lo no método inserir de AgendaDAO. E para buscar um, passe o código.
 
