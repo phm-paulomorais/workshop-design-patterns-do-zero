@@ -1,8 +1,8 @@
-package com.padraodeprojetos.logger;
+package com.padraodeprojeto.logger;
 
 import java.util.Date;
 
-import com.padraodeprojetos.logprinter.LogPrinter;
+import com.padraodeprojeto.logprinter.LogPrinter;
 
 public abstract class Logger {
 	

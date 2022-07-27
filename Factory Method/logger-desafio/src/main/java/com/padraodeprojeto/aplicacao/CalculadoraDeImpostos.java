@@ -1,6 +1,6 @@
-package com.padraodeprojetos.aplicacao;
+package com.padraodeprojeto.aplicacao;
 
-import com.padraodeprojetos.logger.Logger;
+import com.padraodeprojeto.logger.Logger;
 
 public class CalculadoraDeImpostos {
 

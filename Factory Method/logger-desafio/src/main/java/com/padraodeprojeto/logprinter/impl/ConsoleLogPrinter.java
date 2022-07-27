@@ -1,6 +1,6 @@
-package com.padraodeprojetos.logprinter.impl;
+package com.padraodeprojeto.logprinter.impl;
 
-import com.padraodeprojetos.logprinter.LogPrinter;
+import com.padraodeprojeto.logprinter.LogPrinter;
 
 public class ConsoleLogPrinter implements LogPrinter {
 

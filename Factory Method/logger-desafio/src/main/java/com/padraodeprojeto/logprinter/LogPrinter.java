@@ -1,4 +1,4 @@
-package com.padraodeprojetos.logprinter;
+package com.padraodeprojeto.logprinter;
 
 public interface LogPrinter {
 

@@ -1,8 +1,8 @@
-package com.padraodeprojetos.logger.client;
+package com.padraodeprojeto.logger.client;
 
-import com.padraodeprojetos.logger.Logger;
-import com.padraodeprojetos.logprinter.LogPrinter;
-import com.padraodeprojetos.logprinter.impl.FileLogPrinter;
+import com.padraodeprojeto.logger.Logger;
+import com.padraodeprojeto.logprinter.LogPrinter;
+import com.padraodeprojeto.logprinter.impl.FileLogPrinter;
 
 public class FileLogCreator extends Logger {
 	

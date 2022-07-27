@@ -1,8 +1,8 @@
-package com.padraodeprojetos.aplicacao;
+package com.padraodeprojeto.aplicacao;
 
-import com.padraodeprojetos.logger.Logger;
-import com.padraodeprojetos.logger.client.ConsoleLogCreator;
-import com.padraodeprojetos.logger.client.FileLogCreator;
+import com.padraodeprojeto.logger.Logger;
+import com.padraodeprojeto.logger.client.ConsoleLogCreator;
+import com.padraodeprojeto.logger.client.FileLogCreator;
 
 public class AplicacaoMain {
 

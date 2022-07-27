@@ -1,4 +1,4 @@
-package com.padraodeprojetos.logprinter.impl;
+package com.padraodeprojeto.logprinter.impl;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-import com.padraodeprojetos.logprinter.LogPrinter;
+import com.padraodeprojeto.logprinter.LogPrinter;
 
 public class FileLogPrinter implements LogPrinter {
 	
