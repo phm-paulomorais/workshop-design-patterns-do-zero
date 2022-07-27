@@ -16,7 +16,7 @@ public class FilmeRepositoryImpl implements FilmeRepository {
 	    xstream.alias("filme", Filme.class);
 	    OutputStream out = null;
         try {
-	        out = new FileOutputStream(filme.getNome() + ".xml");
+	        out = new FileOutputStream(filme.getNome() + ".xml"); 
 	        xstream.toXML(filme, out);
         } catch (FileNotFoundException e) {
 	        throw new RuntimeException("Erro salvando arquivo", e);
