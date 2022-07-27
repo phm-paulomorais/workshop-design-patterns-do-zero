@@ -1,4 +1,4 @@
-package com.padroesdeprojetos.boleto;
+package com.padraodeprojeto.boleto;
 
 public interface Boleto {
 

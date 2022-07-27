@@ -1,6 +1,6 @@
-package com.padroesdeprojetos.notafiscal.saopaulo;
+package com.padraodeprojeto.notafiscal.saopaulo;
 
-import com.padroesdeprojetos.notafiscal.NotaFiscal;
+import com.padraodeprojeto.notafiscal.NotaFiscal;
 
 public class SaoPauloNotalFiscal implements NotaFiscal {
 	

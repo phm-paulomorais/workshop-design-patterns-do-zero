@@ -1,6 +1,6 @@
-package com.padroesdeprojetos.boleto.cef;
+package com.padraodeprojeto.boleto.cef;
 
-import com.padroesdeprojetos.boleto.Boleto;
+import com.padraodeprojeto.boleto.Boleto;
 
 public class CEFBoleto implements Boleto {
 

@@ -5,7 +5,9 @@ import java.io.IOException;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.padroesdeprojetos.venda.impl.LojaFactory;
+import com.padraodeprojeto.venda.ModuloVendaFactory;
+import com.padraodeprojeto.venda.Venda;
+import com.padraodeprojeto.venda.impl.LojaFactory;
 
 public class VendaBeloHorizonteTest {
 

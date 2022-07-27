@@ -1,6 +1,6 @@
-package com.padroesdeprojetos.boleto.bb;
+package com.padraodeprojeto.boleto.bb;
 
-import com.padroesdeprojetos.boleto.Boleto;
+import com.padraodeprojeto.boleto.Boleto;
 
 public class BancoDoBrasilBoleto implements Boleto {
 

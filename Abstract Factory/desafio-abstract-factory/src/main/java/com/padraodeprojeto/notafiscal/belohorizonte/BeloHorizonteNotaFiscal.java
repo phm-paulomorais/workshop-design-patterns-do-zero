@@ -1,6 +1,6 @@
-package com.padroesdeprojetos.notafiscal.belohorizonte;
+package com.padraodeprojeto.notafiscal.belohorizonte;
 
-import com.padroesdeprojetos.notafiscal.NotaFiscal;
+import com.padraodeprojeto.notafiscal.NotaFiscal;
 
 public class BeloHorizonteNotaFiscal implements NotaFiscal {
 

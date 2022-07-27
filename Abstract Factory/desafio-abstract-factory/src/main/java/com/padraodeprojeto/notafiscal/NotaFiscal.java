@@ -1,4 +1,4 @@
-package com.padroesdeprojetos.notafiscal;
+package com.padraodeprojeto.notafiscal;
 
 public interface NotaFiscal {
 	

@@ -1,7 +1,7 @@
-package com.padroesdeprojetos.venda;
+package com.padraodeprojeto.venda;
 
-import com.padroesdeprojetos.boleto.Boleto;
-import com.padroesdeprojetos.notafiscal.NotaFiscal;
+import com.padraodeprojeto.boleto.Boleto;
+import com.padraodeprojeto.notafiscal.NotaFiscal;
 
 public class Venda {
 	

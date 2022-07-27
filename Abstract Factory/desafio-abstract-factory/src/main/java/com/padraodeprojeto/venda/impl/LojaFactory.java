@@ -1,11 +1,11 @@
-package com.padroesdeprojetos.venda.impl;
+package com.padraodeprojeto.venda.impl;
 
 import java.io.IOException;
 import java.util.Properties;
 
-import com.padroesdeprojetos.boleto.Boleto;
-import com.padroesdeprojetos.notafiscal.NotaFiscal;
-import com.padroesdeprojetos.venda.ModuloVendaFactory;
+import com.padraodeprojeto.boleto.Boleto;
+import com.padraodeprojeto.notafiscal.NotaFiscal;
+import com.padraodeprojeto.venda.ModuloVendaFactory;
 
 public class LojaFactory implements ModuloVendaFactory {
 	
