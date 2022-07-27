@@ -6,8 +6,9 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.padroesdeprojetos.email.proxy.EnviadorEmailProxy;
-import com.padroesdeprojetos.model.Contato;
+import com.padraodeprojeto.email.EnviadorEmail;
+import com.padraodeprojeto.email.proxy.EnviadorEmailProxy;
+import com.padraodeprojeto.model.Contato;
 
 
 public class EnviadorDeEmailTest {

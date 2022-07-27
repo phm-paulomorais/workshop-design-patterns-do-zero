@@ -1,8 +1,8 @@
-package com.padroesdeprojetos.contatos;
+package com.padraodeprojeto.contatos;
 
 import java.util.List;
 
-import com.padroesdeprojetos.model.Contato;
+import com.padraodeprojeto.model.Contato;
 import com.thoughtworks.xstream.XStream;
 
 public class ContatosXML {

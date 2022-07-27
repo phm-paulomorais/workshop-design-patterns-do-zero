@@ -1,9 +1,9 @@
-package com.padroesdeprojetos.email.impl;
+package com.padraodeprojeto.email.impl;
 
 import java.util.List;
 
-import com.padroesdeprojetos.email.EnviadorEmail;
-import com.padroesdeprojetos.model.Contato;
+import com.padraodeprojeto.email.EnviadorEmail;
+import com.padraodeprojeto.model.Contato;
 
 public class EnviadorEmailMandrill implements EnviadorEmail {
 	

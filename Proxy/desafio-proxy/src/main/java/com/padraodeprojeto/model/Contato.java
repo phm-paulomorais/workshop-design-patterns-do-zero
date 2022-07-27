@@ -1,4 +1,4 @@
-package com.padroesdeprojetos.model;
+package com.padraodeprojeto.model;
 
 
 public class Contato {

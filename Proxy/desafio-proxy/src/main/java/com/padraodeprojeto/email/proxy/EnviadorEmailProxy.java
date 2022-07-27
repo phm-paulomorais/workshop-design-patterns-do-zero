@@ -1,11 +1,11 @@
-package com.padroesdeprojetos.email.proxy;
+package com.padraodeprojeto.email.proxy;
 
 import java.util.List;
 
-import com.padroesdeprojetos.contatos.ContatosXML;
-import com.padroesdeprojetos.email.EnviadorEmail;
-import com.padroesdeprojetos.email.impl.EnviadorEmailMandrill;
-import com.padroesdeprojetos.model.Contato;
+import com.padraodeprojeto.contatos.ContatosXML;
+import com.padraodeprojeto.email.EnviadorEmail;
+import com.padraodeprojeto.email.impl.EnviadorEmailMandrill;
+import com.padraodeprojeto.model.Contato;
 
 public class EnviadorEmailProxy implements EnviadorEmail {
 	

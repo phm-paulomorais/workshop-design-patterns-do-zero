@@ -1,4 +1,4 @@
-package com.padroesdeprojetos.email;
+package com.padraodeprojeto.email;
 
 public interface EnviadorEmail {
 	
